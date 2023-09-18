@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Olá meu nome é Maria luiza
+# Sou aluna de Pensamento Computacional do 1°A 
 <!--
 **malu0102/malu0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
